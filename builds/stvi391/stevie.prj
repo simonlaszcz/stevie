@@ -1,0 +1,17 @@
+stevie.ttp
+.C [-I.]
+.C [-DATARI]                                                                    
+=
+pcvstart.o
+main.c (stevie.h,cmdline.h,help.h,linefunc.h,misccmds.h,window.h,edit.h,hexchars.h,normal.h)
+cmdline.c
+help.c
+linefunc.c
+misccmds.c
+window.c
+edit.c
+hexchars.c
+normal.c
+PCSTDLIB.LIB
+PCTOSLIB.LIB
+PCEXTLIB.LIB

@@ -1,0 +1,34 @@
+stevie.ttp
+.C [-I.\POLYFILL]
+.C [-I.]
+.C [-DATARI]
+.C [-DTAGSTACK]
+.C [-DHELP]
+.C [-DTILDEOP]
+=
+PCVSTART.O
+alloc.c
+cmdline.c
+edit.c
+enveval.c
+fileio.c
+help.c
+hexchars.c
+linefunc.c
+main.c
+mark.c
+misccmds.c
+normal.c
+ops.c
+param.c
+ptrfunc.c
+screen.c
+search.c
+sentence.c
+tagcmd.c
+tos.c
+undo.c
+version.c
+V8REGEXP.LIB
+PCSTDLIB.LIB
+PCTOSLIB.LIB
